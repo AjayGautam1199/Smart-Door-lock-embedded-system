@@ -7,7 +7,7 @@ This project showcases a smart door lock system using an ESP32 WROOM module, a T
 - Motor control for opening and closing the door
 - Matrix keypad for inputting access codes
 - Planned future updates: camera integration and cloud-based visitor monitoring
-![Demo](lock_sys.gif)
+![Demo]([lock_sys.gif](https://github.com/AjayGautam1199/Smart-Door-lock-embedded-system/blob/main/lock_sys.gif))
 ## Hardware Required
 - ESP32 WROOM module
 - TFT display (compatible with SPI interface)
